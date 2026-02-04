@@ -1,0 +1,20 @@
+{
+    "name": "erp_davids",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js",
+      "test": "jest"
+    },
+    "dependencies": {
+      "body-parser": "^1.20.2",
+      "express": "^4.18.2",
+      "sequelize": "^6.32.1",
+      "sqlite3": "^5.1.6"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0",
+      "supertest": "^6.3.3"
+    }
+  }
+  
