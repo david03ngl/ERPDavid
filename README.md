@@ -65,10 +65,10 @@ erp/
 ```
 
 🚀 Instalasi
-- ``` npm install```
+- ```npm install```
 
 ▶️ Menjalankan Aplikasi
-- ``` npm start```
+- ```npm start```
 
 Server akan berjalan di:
 - ```http://localhost:3000```
@@ -77,7 +77,7 @@ Database SQLite (erp.sqlite) akan otomatis dibuat saat aplikasi dijalankan.
 
 🧪 Menjalankan Test
 Menjalankan unit test dan integration test:
-` ```npm test```
+- ```npm test```
 
 Test mencakup:
 - Pembuatan produk
