@@ -77,15 +77,15 @@ Database SQLite (erp.sqlite) akan otomatis dibuat saat aplikasi dijalankan.
 
 🧪 Menjalankan Test
 Menjalankan unit test dan integration test:
-npm test
+` ```npm test```
 
 Test mencakup:
-Pembuatan produk
-Pembuatan sales order
-Validasi stok tidak cukup
-Konfirmasi order dan pengurangan stok
-Perhitungan invoice
-REST API workflow end-to-end
+- Pembuatan produk
+- Pembuatan sales order
+- Validasi stok tidak cukup
+- Konfirmasi order dan pengurangan stok
+- Perhitungan invoice
+- REST API workflow end-to-end
 
 🌐 REST API Endpoints
 Product
