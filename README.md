@@ -62,6 +62,7 @@ erp/
 │   └── api.test.js      # Integration test
 ├── package.json
 └── README.md
+```
 
 🚀 Instalasi
 npm install
