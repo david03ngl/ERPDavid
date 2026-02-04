@@ -65,13 +65,13 @@ erp/
 ```
 
 🚀 Instalasi
-```js npm install```
+- ``` npm install```
 
 ▶️ Menjalankan Aplikasi
-```js npm start```
+- ``` npm start```
 
 Server akan berjalan di:
-```http://localhost:3000```
+- ```http://localhost:3000```
 
 Database SQLite (erp.sqlite) akan otomatis dibuat saat aplikasi dijalankan.
 
